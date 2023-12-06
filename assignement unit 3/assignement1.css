@@ -1,0 +1,39 @@
+div{
+    font-size: 30px;
+    background-color: bisque;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    padding: 40px 0px;
+}
+.number1 {
+    color: black;
+}
+.number2 {
+    color: rgb(56, 14, 14);
+}
+.number3 {
+    color: purple;
+}
+.number4 {
+    color: aqua;
+}
+.number5 {
+    color: blue;
+}
+.number6 {
+    color: blueviolet;
+}
+.number7 {
+    color: brown;
+}
+.number8 {
+    color: red;
+}
+.number9 {
+    color: orange;
+}
+.number10 {
+    color: yellow;
+}
